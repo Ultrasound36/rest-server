@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../curso-node-restserver-2.1.0"
+		}
+	],
+	"settings": {}
+}
